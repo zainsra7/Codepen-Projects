@@ -1,0 +1,32 @@
+body{
+  margin:10px;
+  font-family: 'Play', sans-serif;
+  font-size = 20px;
+
+background: url("https://images.unsplash.com/photo-1502126829571-83575bb53030?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=19e0facca3433849592fc3c3e2e69635") center;
+  background-size: cover;
+}
+footer{
+  font-family: 'Philosopher', sans-serif;
+}
+.heading{
+  text-shadow: 4px 4px 4px #aaa;
+}
+.navbar{
+  font-family: 'Gugi', cursive;
+}
+
+.card-body{
+  font-family: 'Philosopher', sans-serif;
+  
+  background-color: #004D40;
+}
+.proPic{
+  border-radius:20%;
+  border:solid 2px;
+  padding:5px;
+  background-color:#004D40;
+}
+.jumbotron{
+  border-radius:2%;
+}

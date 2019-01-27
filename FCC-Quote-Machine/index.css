@@ -1,0 +1,11 @@
+body{
+  margin-top: 10%;
+  font-size: 20px;
+  background: url("https://images.unsplash.com/photo-1482376297902-a54c222cec2b?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=a6f13e63497c844c2e0f8f4cf4e7338f") center no-repeat fixed;
+ background-size: cover;
+}
+.card-title{font-family: 'Amatic SC', cursive;}
+.quote{font-family: 'Berkshire Swash', cursive;}
+.author{font-family: 'Great Vibes', cursive;}
+.credits{font-family: Georgia, cursive;}
+

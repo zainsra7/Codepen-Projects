@@ -1,0 +1,15 @@
+body{
+  font-size:20px;
+  background: url('https://images.unsplash.com/photo-1482855549413-2a6c9b1955a7?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=6b8cbf6937494e40584de212ba3dfd83') center fixed no-repeat;
+ background-size: cover;
+}
+
+#fcctitle,#abtitle,#wgtitle,#estitle,#ninjatitle{
+ font-family: 'Gugi', cursive;
+}
+#twitch,footer{
+   font-family: 'Orbitron', sans-serif;
+}
+#fccbody,#abbody,#wgbody,#esbody,#ninjabody{
+ font-family: 'Abril Fatface', cursive;
+}

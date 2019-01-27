@@ -1,0 +1,10 @@
+body{
+  margin-top: 10%;
+  font-size: 30px;
+  background: url("https://images.unsplash.com/photo-1461709444300-a6217cec3dff?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=a0a240032450921aa437d3a7c33c2135") center no-repeat fixed;
+ background-size: cover;
+}
+.credits{font-family: 'Amatic SC', cursive;}
+.card-title{font-family: 'Great Vibes', cursive;}
+#weatherInfo{font-family: 'Aldrich', sans-serif;}
+

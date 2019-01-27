@@ -1,0 +1,40 @@
+body{
+  margin: 10px;
+    background: url("https://images.unsplash.com/photo-1470639425574-19736d045ab7?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=6513db273a0ed3c703c86609cbad35fc") center;
+  background-size: cover;
+}
+.card-header{
+  font-family: 'Gugi', cursive;
+}
+.readmore{
+  font-family: 'Gugi', cursive;
+   text-shadow: 4px 4px 4px #aaa;
+}
+
+li{
+  font-family: 'Play', sans-serif;
+}
+.card-body{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 20px;
+  background-color: #004D40;
+}
+footer{
+  font-family: 'Philosopher', sans-serif;
+}
+img{
+    border: solid;
+    padding: 20px;
+    background-color: #004D40;
+}
+.picturecardbody{
+  background-color: #0D47A1;
+  font-family: 'Philosopher', sans-serif;
+  text-color: #F5F5F5;
+}
+.card{
+  margin: 5px;
+}
+.quote{
+  font-family: 'Philosopher', sans-serif;
+}

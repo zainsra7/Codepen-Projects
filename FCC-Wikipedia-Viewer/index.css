@@ -1,0 +1,24 @@
+body::after {
+  content: "";
+  background: url(https://images.unsplash.com/photo-1490127252417-7c393f993ee4?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=260b256c6cfa222b6f8b39b7cce54d0c) center fixed no-repeat;
+  background-size:cover;
+  opacity: 0.2;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+#collapse{
+  margin-top: 30px;
+}
+body{
+  font-size: 20px;
+  background-color: #5D4037;
+}
+.credits{font-family: 'Amatic SC', cursive;}
+.title{font-family: 'Great Vibes', cursive;}
+#weatherInfo{font-family: 'Aldrich', sans-serif;}
+
+
